@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "nmea_parser.h": "c",
+        "string.h": "c"
+    }
+}
